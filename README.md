@@ -1,9 +1,5 @@
 <h1 align="center"> Portfólio </h1>
 
-<p align="center">
-Portfólio do curso Origamid.
-</p>
-
 
 <br>
 
