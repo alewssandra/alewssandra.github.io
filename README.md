@@ -10,7 +10,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 
-## 💻 Projeto
-
-Um exemplo de portfólio mostrando suas experiências e formações.
 
